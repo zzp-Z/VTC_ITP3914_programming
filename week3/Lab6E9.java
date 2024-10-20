@@ -2,7 +2,7 @@ package week3;
 
 import java.util.Scanner;
 
-public class FindQuadraticEquation {
+public class Lab6E9 {
     public static void main(String[] args) {
         // Step 1: Get input value
         Scanner scanner = new Scanner(System.in);
